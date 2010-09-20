@@ -4,7 +4,7 @@ GEM
     abstract (1.0.0)
     actionmailer (3.0.0)
       actionpack (= 3.0.0)
-      mail (~> 2.2.5)
+      mail (~> 2.2.5) 
     actionpack (3.0.0)
       activemodel (= 3.0.0)
       activesupport (= 3.0.0)
